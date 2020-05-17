@@ -1,6 +1,7 @@
 # Firing Mode Editor
 A simple pygame application that helps you design more complex `FiringPattern`s for Borderlands 2 and Borderlands TPS.   
 ![Screenshot](https://cdn.discordapp.com/attachments/288382606288879629/709534569916923995/unknown.png)
+![gif](https://cdn.discordapp.com/attachments/551872681650421774/711542842572537875/donk.gif)
 ## Requirement
     - Python 3.x
     - pip install pygame
